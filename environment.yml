@@ -1,0 +1,9 @@
+name: clipboard_env
+channels:
+  - defaults
+dependencies:
+  - pyperclip
+  - python=3.8
+  - requests
+  - playsound
+prefix: /home/stenadg/miniconda3/envs/clipboard_env
